@@ -19,4 +19,4 @@ By Richard Boyne (Github: Boyne272 - CID: 01057503)
 
 Thanks for marking and as always here is an appropriate meme
 
-<img src="" alt="machine learning meme">
+<img src="https://memegenerator.net/img/instances/72296984/still-waiting-for-my-neural-network-to-train.jpg" alt="neural network meme">
