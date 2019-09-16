@@ -16,9 +16,3 @@ Data Source https://www.cs.toronto.edu/~kriz/cifar.html accessed via pytorch
 - ACSE8_CW3.ipynb has all the tasks completed, annotated and has been re-run to ensure no bugs
 - CIFAR10_classifier.pth is a pickeled model object (the whole object, not just its parameters) of the LeNet5 model trained on the entire CIFAR10 training data set with a test accuracy of 64.7%
 - CIFAR10_classifier_better.pth is the same model as the above trained for fewer epochs so as to reduce overfitting, leading to a higher test accuracy of 65.5%.
-
-## appropriate meme
-
-As always here is an appropriate meme
-
-<img src="https://memegenerator.net/img/instances/72296984/still-waiting-for-my-neural-network-to-train.jpg" alt="neural network meme">
