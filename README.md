@@ -1,6 +1,6 @@
 # LeNet5 on CIFAR10 dataset
 
-A notebook which explores hyper parameter optimisation and performance of LeNet5 CNN on the CIFAR10 dataset. This was implemented through a pytorch and many of the fuctions developed here were used in future projects and [better formalised here](https://github.com/Boyne272/tools).
+A notebook which explores hyper parameter optimisation and performance of LeNet5 CNN on the CIFAR10 dataset. This was implemented through a pytorch and many of the fuctions developed here were used in future projects and [better formalised here](https://github.com/Boyne272/Tools).
 
 By Richard Boyne (Github: Boyne272 - CID: 01057503)
 
